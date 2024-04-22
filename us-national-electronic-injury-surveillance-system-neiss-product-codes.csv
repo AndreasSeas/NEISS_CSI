@@ -1,0 +1,805 @@
+﻿Code,Product Title
+234,Toasters (excluding toaster ovens)
+270,Ice crushers
+274,Ice cream makers
+413,"Waste containers, trash baskets or refuse bins"
+480,Manual cleaning equipment (excluding buckets or pails)
+547,"Sound recording, reproducing or receiving equipment, not specified"
+611,Bathtubs or showers (including fixtures or accessories
+623,Butane or LP gas meters
+663,Fireplace equipment
+693,Footlockers
+877,Trouble lights or extension work lights
+893,"Tools, not specified"
+895,"Power saws, other or not specified"
+959,"Polishes, not specified"
+962,Diesel fuels
+970,Wallpaper cleaners (chemical)
+984,"Solvents, other or not specified"
+1053,Fertilizers and other chemicals for outdoor use (excluding pesticides)
+1137,"Paper products (excluding bags, cups, straws and cardboard products)"
+1239,"Horseback riding (activity, apparel or equipment)"
+1414,"Garden hoses, nozzles or sprinklers"
+1506,Baby gates or barriers
+1513,Playpens and play yards
+1562,Other soft baby carriers
+1644,Nightwear
+1678,Bath or facial cleansing brushes
+1934,Hot water
+1936,BBs or pellets
+3255,"Ice skating (activity, apparel or equipment)"
+4002,"Bedding, not specified"
+5016,"Balls, other or not specified"
+223,Electric griddles
+311,Oil furnaces (excluding floor furnaces)
+436,"Potholders, oven mitts or hot pads"
+452,"Coffee makers or teapots, not specified"
+460,Metal cookware (nonelectric
+469,Slicers and choppers
+555,Radios (self-contained units
+680,"Convertible beds, hideaway beds or sofa beds"
+827,Hammers
+886,Stretch cords or stretch straps
+913,Lubricants
+926,Photographic chemicals
+930,"Ammonia, household"
+1244,"Monkey bars, playground gyms or other playground climbing apparatus"
+1313,Fireworks
+1344,Toy musical instruments
+1398,"Wheeled riding toys, unpowered (excluding bicycles and tricycles)"
+1615,Footwear
+1669,Pins and needles (excluding safety pins and knitting needles)
+1711,Christmas tree lights
+1719,Lunch boxes or pails
+1729,Christmas decorations (nonelectric)
+1744,"Motorized vehicles, not elsewhere classified (three or more wheels)"
+1886,Garage doors (excluding automatic garage doors or door openers)
+2300,School equipment
+3229,Electric grills
+3254,"Cheerleading (activity, apparel or equipment"
+4047,"Books, magazines, albums or scrapbooks"
+4067,"Clocks, not electric or not battery operated or not specified"
+4084,Residential alternative energy systems for on-site power generation
+5042,"Scooters/skateboards, powered"
+133,Other water heaters
+334,"Gas-burning fireplaces, factory built"
+379,Radiators (excluding vehicle radiators)
+388,"Electric heaters, not elsewhere classified"
+545,Amateur two-way radios
+805,Power lathes
+820,Internal combustion engines (nonvehicular)
+834,Heavy-duty workshop staplers
+842,Band saws
+961,Rust preventatives
+1212,"Golf (activity, apparel or equipment)"
+1213,"Golf carts, motorized vehicle"
+1338,Toy bows or arrows
+1447,"Pruning or trimming equipment, not specified"
+1535,Potty chairs or training seats (for children)
+1539,Shoelace fasteners (for infants)
+1684,"Carts, other or not specified"
+1871,Fences or fence posts
+1895,Tree stands (hunting)
+3224,Other guns or firearms
+4013,Other furniture
+4039,Other electric lighting equipment
+4070,"Floor lamps or table lamps, halogen"
+5036,"Two-wheeled, powered, off-road vehicles (incl. dirt bikes and trail bikes"
+279,Gas ranges or ovens
+280,Other ranges or ovens
+380,Fans
+531,Recording tapes
+549,Projectors
+556,Tape recorders or players (self-contained units)
+648,Sinks (excluding faucets)
+652,"Pictures, picture frames or wall decorations"
+670,"Chair, recliner"
+706,"Lightning rods or arresters, antenna discharge units or other grounding devices"
+823,Air compressors (separate)
+854,Workshop furnishings
+868,Nonelectric soldering equipment
+870,"Awls, chisels or planes"
+965,"Fuel oils, not specified"
+1260,"Billiards or pool (activity, apparel or equipment)"
+1277,Swimming pool slides
+1333,Skateboards
+1460,"Insect traps, powered"
+1557,Baby bathtub seats or rings (not toys)
+1935,Gunpowder or ammunition (excluding BBs and pellets)
+3272,"Hockey (activity, apparel or equipment), not specified"
+3273,"Playground equipment, not specified"
+4051,Sheets or pillowcases
+4057,"Tables, not elsewhere classified (excl. baby changing tables, billiard or pool tables and television tables or stands)"
+115,Vacuum cleaners
+214,Dishwashers
+232,Electric scissors
+322,"Furnaces, other or not specified"
+417,Flatware (excluding knives)
+422,Bottle openers
+574,"Remote control, universal or not stated (excl. remote controls for toys)"
+808,Power shapers
+879,Vises or workshop clamps
+888,"Sprayers, not elsewhere classified"
+915,Methyl alcohol
+955,"Automotive chemicals (excluding antifreeze, lubricants, waxes and windshield wiper fluids)"
+973,Liquid room deodorizers or fresheners
+981,Gasoline cans
+1134,Other glass bottles or jars
+1237,"Gas, air or spring-operated guns (including BB guns)"
+1345,Building sets
+1466,"Decorative water features, including man-made ponds and fountains"
+1520,Baby exercisers
+1625,Lighted make-up mirrors
+1840,Pull-down or folding stairs
+1887,Tool sheds
+1893,"Doors, other or not specified"
+1927,"Liquid drugs (excluding aspirin, aspirin substitutes, iron preparations and antihistamines)"
+3221,Above-ground swimming pools (excluding portable pools)
+3248,Gas or LP grills or stoves (for outdoor use)
+3259,Go-carts
+5006,Other toy guns
+5029,"Camping equipment (excl. trailers, lighting equipment, sleeping bags, cots, hammocks, coolers, stoves and heaters)"
+106,Electric clothes dryers without washers
+112,Sewing machines or accessories
+113,Floor buffers or waxers
+216,"Electric counter-top ovens, broilers or toaster ovens"
+462,Chafing dishes or fondue pots
+465,Other cookware
+466,"Cookware, not specified"
+471,Food grinders
+704,Burglar alarms
+710,Electric timers
+809,Other portable or stationary power tools
+843,Radial arm saws
+869,Glue guns
+933,Turpentine
+983,Soaps (excluding laundry soaps or detergents)
+1127,Nonglass bottles or jars (excluding baby bottles)
+1211,"Football (activity, apparel or equipment)"
+1293,Amusement attractions (including rides)
+1301,Tricycles (children's)
+1395,"Toys, not specified"
+1399,Toy guns with projectiles
+1431,Grass and leaf catchers (attachments for lawn mowers)
+1561,Framed baby carriers (carried on the back)
+1651,"Combs, not specified"
+1715,Pet supplies (excluding foods and medicines)
+1718,Flares
+1889,"Elevators or other lifts (excl. escalators, hoists, jacks, forklifts and automotive lifts)"
+3249,"Grills, not specified"
+3253,"Guns, not specified"
+4008,Nonelectric blankets
+4055,"Drapery or curtain rods, hooks or rings"
+4071,"Floor lamps or table lamps, electric (excluding halogen lamps)"
+102,Wringer washing machines
+240,Electric knife sharpeners
+275,Food processors
+307,Air purifiers
+372,"Brick, stone or masonry chimneys"
+427,Ice picks
+431,Toothpicks or hor d'oeuvres picks
+552,"Antennas, not specified"
+569,Art and ceramic supplies or equipment (excl. paintbrushes)
+671,"Chair, rocking"
+830,Hand saws
+874,Cutting torches
+927,Tapes (with adhesive surfaces)
+1310,Pogo sticks
+1319,Metal or plastic molding sets
+1390,"Toy guns, not specified"
+1394,"Dolls, plush toys, and action figures"
+1439,"Lawn mowers, not specified"
+1461,Leaf blowers
+1463,"Brushcutters, powered"
+1646,Outerwear
+1683,Hair clippers and trimmers
+1738,"Public equipment, not elsewhere classified (including conveyor belts, signs)"
+1803,Thermal or sound insulation materials
+1812,"Gutters, drainpipes, downspouts or run-off pipes"
+1870,Windowsills or frames
+1890,Escalators
+1897,Drywall in a completed structure
+1926,Pesticides
+3200,"Water tubing (activity, apparel or equipment)"
+3285,All-terrain vehicles (three wheels only
+4802,"Straps, non-stretch, other, or not specified"
+5001,Other toy weapons (projectile)
+136,Drinking fountains
+401,Nonelectric can openers
+420,Manual scissors
+529,"Telescopes, binoculars, microscopes or magnifying glasses"
+576,Video players and recorders (excl. cameras)
+649,Toilets
+667,"Bedspreads, throws or comforters"
+698,Hot tubs or home spas
+711,Fire escape devices (excluding ladders)
+852,Rope or string (excluding mountain climbing or jump ropes and kite strings)
+899,"Workshop grinders, buffers, or polishers, not specified"
+909,Adhesives (excluding tapes)
+921,"Chemicals, not elsewhere classified"
+969,Lye
+1145,Other specified plastic products
+1242,Slides or sliding boards (excluding swimming pool slides)
+1328,Wagons (children's)
+1402,Manual push mowers (unpowered)
+1403,Other unpowered garden tools
+1465,"Decorative yard equipment, excluding water features"
+1524,Baby harnesses
+1602,Hair dryers
+3261,"Shuffleboard (activity, apparel or equipment)"
+5037,Hammocks
+137,Automatic doors or door openers (excluding garage doors)
+271,Juicers
+378,"Chimneys, not specified"
+419,"Tie racks, belt racks or other clothes hangers"
+478,"Drinking glasses, cups, and mugs"
+609,Glass bathtub or shower enclosures
+661,Bunk beds
+672,Laundry hampers
+875,Jigsaws
+885,"Chains, not elsewhere classified"
+942,Oven cleaners
+960,"Paints, varnishes or shellacs"
+975,"Room deodorizers or fresheners, not specified"
+1112,"Metal containers (excluding aerosols, trash and gasoline cans)"
+1114,Cardboard products
+1290,"Snowmobiles (activity, apparel or equipment)"
+1432,Animal traps
+1441,Lawn vacuums
+1622,Watches
+1623,Luggage (excluding foot lockers)
+1819,"Nails, screws, carpet tacks or thumbtacks -> Nails, screws, tacks or bolts"
+1826,Storm windows
+1857,Artificial turf
+1884,Ceilings and walls (interior part of completed structure)
+3202,Pedal-powered adult vehicles (three or more wheels)
+4010,"Mattresses, not specified"
+4050,Pillows (excluding water pillows)
+237,Garbage disposers
+281,"Ranges or ovens, not specified"
+384,Floor furnaces (built into floor)
+421,Nonelectric knife sharpeners
+620,Step stools
+654,"Knickknacks, statues, vases or urns"
+689,"Blankets, not specified"
+699,Faucets or spigots
+968,Caustics (excluding lye)
+1116,Containers with key openers
+1207,"Boxing (activity, apparel or equipment)"
+1401,"Power lawn mowers, not specified"
+1453,Other manual pruning or trimming equipment
+1664,Electric razors or shavers
+1688,Fuel multi-purpose lighters (incl. micro torches)
+1736,Electric Christmas decorations (excluding Christmas tree lights)
+1741,Tarpaulins
+1843,Ramps or landings
+1854,Plastic panels for doors or windows
+1899,Carbon monoxide poisonings (when source is unknown)
+1913,"Cosmetics, including facial and eye make-up, deodorants, hair preparations, nail polish and removers, bath oils, skin creams and lotions, etc."
+1915,Liniments or rubbing compounds
+3203,"Skeet shooting (activity, apparel or equipment"
+3246,Swings or swing sets (excluding portable baby swings)
+3279,Flotation toys (excluding official life-saving devices)
+4076,"Beds or bedframes, other or not specified"
+5010,Crayons or chalk (excluding billiard or pool chalk)
+5015,"Toy caps, cap toys or cap guns"
+5017,Flying discs and boomerangs
+107,Gas clothes dryers without washers
+125,Water softeners or conditioners (appliances)
+139,Incinerators
+264,Microwave ovens
+305,Vaporizers
+412,Pressure cookers or canners
+429,Food skewers
+434,Doorstops
+464,"Knives, not elsewhere classified"
+546,Stereo or hi-fi components or accessories (excluding self-contained units)
+557,Computers (equipment and electronic games)
+604,"Desks, dressers, chests, bureaus, or buffets"
+638,"Window shades, venetian blinds or indoor shutters"
+685,Extension cords
+964,Lamp oils
+1139,Aluminum foil wrapping products
+1270,"Wrestling (activity, apparel or equipment)"
+1272,"Gymnastics (activity, apparel or equipment"
+1275,"Scuba diving (activity, apparel or equipment)"
+1278,Diving or diving boards
+1449,Manual hedge trimmers
+1454,Other power pruning or trimming equipment
+1455,"Manual pruning or trimming equipment, not specified"
+1462,"Pumps, not elsewhere classified"
+1526,Crib mobiles or crib gyms
+1531,Baby carriers (bicycle-mounted)
+1542,Baby mattresses or pads
+1551,Diaper fasteners (excluding safety pins)
+1679,Grocery or shopping carts
+1728,Matchbooks
+1928,Antihistamines
+3296,All-terrain vehicles (more than four wheels
+5021,Toy vehicles (excluding riding toys)
+140,"Washing machines, other or not specified"
+222,Electric frying pans and skillets
+242,Electric immersion water heaters
+316,"Wood burning fireplaces, factory built"
+373,"Metal chimneys, stovepipes or flues"
+391,Portable gas or LP heaters
+530,Phonograph records
+533,Lapidary equipment
+566,"Musical instruments, not electric or not battery operated or not specified"
+567,Coaxial Cable
+707,"Padlocks, chain locks or other locks"
+712,Carbon monoxide detectors
+829,Manual drills
+940,Lighter fluids
+1326,"Blocks, stacking toys or pull toys"
+1634,Heat or infrared lamps
+1690,"Multi-purpose lighters, not specified"
+1742,Heating or cooling comfort packs (nonelectric)
+1818,"Cisterns, cesspools or septic tanks"
+1864,Counters or countertops (excluding bars)
+1888,Window or door security barriers
+3222,"Badminton (activity, apparel or equipment)"
+3250,Portable food or beverage coolers
+3287,All-terrain vehicles (number of wheels not specified
+4061,Electrical outlets or receptacles
+4079,"Footstools, ottomans or hassocks"
+217,Electric coffee makers or teapots
+269,Electric kettles or hot pots
+346,"Electric fireplaces, factory built"
+562,Laser pointers
+639,Flashlights or battery-powered lanterns
+679,"Sofas, couches, davenports, divans or studio couches"
+709,Safes
+864,Sabre saws
+896,Welding equipment
+898,"Manual workshop grinders, buffers or polishers"
+929,Drain cleaners
+932,Shoe polishes
+937,Rust removers
+978,"Automotive waxes, polishes or cleaners"
+1123,"Plastic containers (rigid or semi-rigid, excluding bottles and jars)"
+1130,Plastic bags
+1257,"Horseshoes (activity, apparel or equipment)"
+1283,Unicycles
+1433,Power leaf mulchers and grinders
+1555,High chairs
+1667,"Razors or shavers, not specified"
+1682,"Hair curlers, curling irons, clips & hairpins"
+3274,"Swimming (activity, apparel or equipment"
+3295,"Water slides, public (stationary amusement rides)"
+4005,Filters (excluding swimming pool and aquarium filters)
+4068,"Scales, not electric or not battery operated or not specified (excluding baby scales)"
+127,"Clothes dryers, not specified"
+276,Refrigerators
+310,Gas furnaces (excluding floor furnaces)
+519,Television tables or stands
+561,Outdoor antennas (separate)
+628,"Electric chandeliers, hanging lamps or other attached light fixtures"
+669,Clothespins
+836,Knives with replaceable blades
+957,Dyes (noncosmetic)
+966,Antifreeze
+1102,Vacuum containers
+1107,Other containers (excluding vacuum or pressurized containers)
+1124,Glass tubing or test tubes
+1269,"Table tennis (activity, apparel or equipment)"
+1347,Balloons (toy)
+1349,Stilts
+1427,Power hedge trimmers
+1510,Bottle warmers
+1515,Baby scales
+1647,Clothing accessories
+1659,"Manicure, pedicure, and make-up brushes and tools (excluding cosmetics)"
+1660,Umbrellas
+1661,Nonelectric razors or shavers
+1677,Other clothing
+3219,Other playground equipment
+3230,Kerosene grills or stoves
+4042,"Lighting equipment, not specified"
+4054,Other bedding
+4058,Bars and bar accessories (excluding gymnastic and weight lifting equipment)
+116,Electric brooms
+235,Electric waffle irons
+236,Faucet water heaters
+255,Clothes steamers
+393,"Heaters or heating systems, other or not specified"
+428,"Kitchen gadgets, not elsewhere classified"
+432,Trays (excluding food warmers)
+550,Telephones or telephone accessories
+573,"Other sound recording, reproducing or receiving equipment"
+713,Fire sprinklers
+804,Power routers
+814,"Hoists, lifts, jacks or jack stands"
+897,"Power workshop grinders, buffers or polishers"
+951,Toilet bowl products
+952,"Fabric treatment products (excluding spot removers, cleaning fluids, bleaches and dyes)"
+1243,Seesaws or teeterboards
+1279,"Ice hockey (activity, apparel or equipment)"
+1354,Marbles
+1389,Other toy weapons (nonprojectile)
+1392,Toy sports equipment
+1408,Power tillers or cultivators (not farm equipment)
+1511,Sterilizers (home use)
+1522,Baby strollers
+1543,"Cribs, nonportable"
+1610,Massage devices or vibrators (excluding shower attachments)
+1619,Personal protection devices
+1734,Music boxes or chimes
+1807,Floors or flooring materials
+1929,"Drugs or medications, not specified"
+4056,"Cabinets, racks, room dividers and shelves, not elsewhere classified"
+4074,"Chairs, other or not specified"
+394,Outdoor patio heaters or firepits (manufactured)
+408,Ironing boards or covers
+617,"Draperies, curtains or shower curtains (fabric or plastic)"
+618,Stepladders (excluding step stools)
+815,Electrical testing equipment
+819,Electric motors (separate)
+845,"Saws, not specified"
+858,Reamers
+914,Dry ice
+972,"Paint or varnish removers, paintbrush cleaners (excluding turpentine)"
+1125,Wooden containers
+1140,"Glass bottles or jars, not specified"
+1284,"Swimming pools, not specified"
+1294,Bleachers
+1445,Plant foods or fertilizers for potted plants
+1464,"Lawn trimmers or edgers, powered (excluding brushcutters)"
+1505,Baby carriages
+1545,"Cribs, not specified"
+1548,"Baby carriers, not specified"
+1604,Cigarette or pipe lighters
+1607,Eye protection devices
+1612,Saunas
+1671,"Sewing basket articles (excluding scissors, pins, needles and sewing machine accessories)"
+1685,Pens and pencils
+1712,Christmas tree stands or supports
+1817,"Porches, balconies, open-side floors or floor openings"
+1865,"Poles (excluding fence posts, fishing, pole vaults and play-ground equipment)"
+1876,"House repair or construction materials, not elsewhere classified"
+1923,Aspirin or aspirin compounds
+3286,"All-terrain vehicles (four wheels, excluding dune buggies"
+4064,Futons
+4078,"Ladders, other or not specified"
+5034,"Softball (activity, apparel or equipment)"
+215,Electric blenders
+224,Hot plates
+241,Rotisseries
+306,Dehumidifiers
+308,Boilers
+453,"Can openers, not specified"
+482,"Appliances, other or not specified"
+651,Table linens
+883,Battery chargers/adapters
+890,"Torches, not specified"
+956,Bleaches (noncosmetic)
+976,"Detergents, not specified"
+1448,Rotary power lawn mowers (walk-behind)
+1613,Electric shoe polishers
+1650,Desk supplies (excluding pens and pencils)
+1662,"Hair grooming equipment or accessories, not specified"
+1689,Electric multi-purpose lighters
+1816,Scaffolding
+3252,Sleeping bags
+4060,Fuel-burning lighting equipment
+4075,Bed rails
+5033,Mountain or all-terrain bicycles or accessories
+5043,Portable swimming pools
+212,Electric corn poppers
+263,Freezers (separate from refrigerators)
+367,Coal or wood-burning stoves
+477,Thermometers (excluding medical thermometers)
+575,Compact disks (CDs) and DVDs
+657,Towel racks or bars
+687,Benches (excluding work benches)
+835,Toolboxes or tool kits (excluding tools)
+856,Stationary power drills and accessories
+882,Nail guns or stud drivers
+1215,"Lacrosse (activity, apparel or equipment)"
+1261,"Surfing (activity, apparel or equipment)"
+1330,Powered riding toys
+1425,Wheelbarrows or lawn carts
+1549,Other baby carriers
+1617,Ear protection devices
+1618,Respiratory protection devices
+1687,"Lighters, not specified"
+1714,Seasonal decorations (excluding Christmas decorations)
+1730,Wooden matches
+1842,Stairs or steps (excluding pull-down and folding stairs)
+1931,"Tablet or capsule drugs (excluding aspirin, aspirin substitutes, iron preparations and antihistamines)"
+1932,Other drugs or medications
+3235,"Other ball sports (activity, apparel or equipment)"
+3297,"In-line skating (activity, apparel or equipment)"
+4083,Surge suppressors or power strips
+5005,"Riding toys (excluding bicycles and tricycles), not specified"
+5007,"Toy weapons, not specified"
+5031,"Snow boarding (activity, apparel or equipment)"
+5555,Substance ingested or inhaled by a victim under age 5 which could lead to a poisoning and for which there is no current product code.
+138,Automatic garage doors or door openers
+277,Clothing irons
+309,Coal furnaces
+399,Kerosene or oil heaters
+450,"Scissors, not specified"
+572,Televisions
+676,"Rugs or carpets, not specified"
+828,Screwdrivers
+862,Manual filing or sanding tools
+905,Furniture polishes or waxes
+941,Fuels for chafing dishes or fondue pots
+977,Spot removers or cleaning fluids
+979,Dishwashing liquid
+1062,"Tractors, other or not specified"
+1103,"Self-contained openers (e.g., zip-top or pull-top cans)"
+1122,Glass alcoholic beverage bottles
+1131,Plastic wrapping products (excluding plastic bags)
+1258,"Mountain climbing (activity, apparel or equipment)"
+1271,Batons
+1282,"Handball (activity, apparel or equipment)"
+1329,"Scooters, unpowered"
+1406,Snow throwers/blowers
+1407,Garden sprayers
+1430,Seed and fertilizer spreaders
+1529,Portable cribs
+1553,Portable baby swings (for home use)
+1641,Clothes brushes
+1658,"Clothing, not specified"
+1735,Coin-operated car washing equipment
+1885,Wood paneling and particleboard
+3216,"Roller skating (activity, apparel or equipment)"
+3234,"Rugby (activity, apparel or equipment)"
+3256,"Squash, racquet ball or paddle ball (activity, apparel or equipment)"
+3265,"Weight lifting (activity, apparel or equipment)"
+3291,"Darts, not specified"
+3299,"Exercise (activity or apparel without equipment), including aerobics, stretching, walking, jogging, running (excluding track and field)"
+4065,"Clocks, electric or battery operated"
+4066,"Scales, electric or battery operated (excluding baby scales)"
+4069,Cots
+5019,Games or game parts (excluding marbles and computer games)
+119,Electric water heaters (excluding immersion heaters)
+131,"Propane, LP or butane gas tanks or fittings"
+252,Trash compactors
+318,Electric furnaces (excluding floor furnaces)
+342,"Fireplaces, not specified"
+374,Pipes (excluding smoking pipes)
+392,"Gas or LP heaters, other or not specified"
+536,Photographic equipment (excluding chemicals and projectors)
+565,"Musical instruments, electric or battery operated"
+841,Bench or table saws
+871,"Power drills or accessories, not specified"
+945,Pine oil cleaning and disinfectant preparations
+954,"General purpose household cleaners (excluding abrasives, ammonia, pine oil and toilet bowl products)"
+980,"Fuel storage tanks (excluding propane, LP and butane tanks)"
+1133,Aerosol containers
+1206,"Bowling (activity, apparel or equipment)"
+1273,T oboggans
+1314,Rocketry sets
+1450,Manual lawn trimmers or edgers
+1456,"Power pruning or trimming equipment, not specified"
+1605,"Wigs, falls or hairpieces"
+1637,Electric combs
+1828,Window screens
+3236,"Ball sports (activity, apparel or equipment), not specified"
+3245,"Street hockey (activity, apparel or equipment)"
+3257,"Martial arts (activity, apparel or equipment)"
+4004,Mirrors or mirror glass (excluding lighted make-up mirrors)
+4082,Toddler beds
+114,Rug shampooers
+390,"Heat tapes, electric"
+701,Fire extinguishers
+884,Batteries
+908,Paint or varnish thinners (excluding turpentine)
+917,Charcoal
+931,"Metal polishes, tarnish removers or preventatives"
+934,Dishwasher detergents
+982,School laboratory chemicals
+1128,Paper bags
+1234,Treehouses or playhouses
+1235,"Archery (activity, apparel or equipment)"
+1350,Squeeze or squeaker toys
+1365,Water toys (excluding squeeze or squeaker toys and inner tubes or similar flotation equipment)
+1405,Garden tractors
+1616,Jewelry (excluding watches)
+1820,Cabinet or door hardware
+1821,Clotheslines or clothes drying racks (excluding poles)
+1866,General home or room involvement in fires
+5011,"Book bags or back carriers (excluding baby carriers, luggage and camping equipment)"
+5041,"Baseball (activity, apparel or equipment"
+231,Electric mixers
+435,"Kitchen mixing bowls, canisters or similar containers (excluding plastic products)"
+563,Record players (self-contained units)
+606,Generators or power plants
+612,"Runners, throw rugs or doormats (excluding bathtub mats)"
+613,"Room-sized, wall-to-wall or outdoor carpeting (excluding runners)"
+910,Gasoline
+925,"Paintbrushes or rollers, manual"
+967,Windshield wiper fluids
+1144,"Bags, not elsewhere classified"
+1267,"Soccer (activity, apparel or equipment)"
+1322,"Children's play tents, play tunnels or other enclosures"
+1409,Other power garden tools
+1411,Chain saws
+1502,Baby changing tables
+1525,Pacifiers or teething rings
+1528,Diaper pails
+1892,Glass doors or doors with glass panels
+1914,Veterinary medicines
+1916,Preparations containing iron salts
+3251,Built-in swimming pools
+5018,Doll houses and other play scenes
+5030,"Track and field (activity, apparel or equipment"
+5032,"Roller hockey (activity, apparel or equipment)"
+5040,Bicycles or accessories (excluding mountain or all-terrain bicycles)
+474,"Tableware and accessories (excluding drinking glasses, cups, and mugs)"
+650,Slipcovers
+653,Artificial flowers or plants
+666,Towels or cloths
+702,Fire or smoke alarms
+855,Portable power drills and accessories
+904,Floor waxes
+953,Abrasive cleaners
+1138,Pressurized containers (nonaerosol
+1208,"Croquet (activity, apparel or equipment)"
+1217,Sleds
+1276,"Tetherball (activity, apparel or equipment)"
+1352,Slingshots or sling-propelled toys
+1452,Outdoor electric lighting equipment
+1457,Log splitters
+1508,Baby walkers or jumpers
+1512,Diapers
+1533,Night-lights
+1550,"Infant and toddler play centers (excluding jumpers, bouncers, and exercisers"
+1891,Moving walks
+3277,Exercise equipment (excluding weight lifting or gymnastic equipment)
+3283,"Snow skiing (activity, apparel or equipment)"
+3289,"Darts, for indoor use (activity or equipment)"
+4016,Beach chairs or folding chairs
+4025,Barstools or kitchen stools
+4062,"Electrical wire or wiring systems (excluding panelboards, receptacles or interrupters)"
+4077,Extension or straight ladders
+5035,"Minibikes, powered"
+221,Food warmers
+304,Humidifiers
+365,Heat pumps
+481,Bread making machines
+662,Waterbeds or water pillows
+692,Magazine racks or book ends
+803,Power sanders
+878,Levels
+880,Drain snakes
+881,Other manual workshop tools
+887,"Painting equipment, powered (including sprayers, rollers or brushes)"
+938,Swimming pool chemicals
+1135,"Bottles or jars, not specified"
+1264,"Water skiing (activity, apparel or equipment)"
+1327,"Nonwheeled riding toys, unpowered (e.g., rocking or bouncing horses, etc.)"
+1376,Molding compounds
+1519,Car seats (for infants or children)
+1560,Baby slings and wraps
+1638,"Combs or hairbrushes, unpowered"
+1720,Party favors
+1740,"Ashtrays, not electric or not battery operated or not specified"
+1878,Doorsills or frames
+3282,"Curling (activity, apparel or equipment)"
+3290,"Darts, lawn (activity or equipment)"
+4030,"Bathtub or shower enclosures, not specified"
+4041,"Electric lighting equipment, not specified"
+4081,"Cords, electrical, other or not specified"
+5020,"Pretend electronics, tools, housewares, and appliances"
+118,Gas water heaters
+132,Electric blankets or sheets
+134,"Water heaters, not specified"
+312,Electric baseboard heaters
+340,Thermostats (for heating or cooling systems)
+405,Unpowered coffee makers or teapots
+416,Corkscrews
+438,Laundry baskets
+444,"Knife sharpeners, not specified"
+461,Nonmetal cookware (nonelectric)
+463,"Candles, candlesticks and other candle holders"
+610,Nonglass bathtub or shower enclosures
+807,Power jointers
+821,Automotive tools or accessories
+832,Portable circular power saws
+837,"Wire, not specified"
+847,"Drills, not specified"
+920,Caulking or spackling compounds
+963,Kerosene
+971,Wallpaper steamers
+1120,Glass soft drink bottles
+1136,Canning jars
+1274,Snow disks
+1295,"Field hockey (activity, apparel or equipment)"
+1325,Inflatable toys (excluding balls & balloons)
+1422,Riding power lawn mowers
+1509,Baby bottles or nipples
+1517,Baby rattles
+1537,Bassinets or cradles
+1643,"Keys, key rings or key chains"
+1680,"Dollies, handtrucks or luggage carriers"
+1731,"Matches, not specified"
+1829,"Handrails, railings or banisters"
+3215,Mopeds or power-assisted cycles
+3218,Charcoal or wood-burning grills
+3278,"Dancing (activity, apparel or equipment)"
+4080,"Stools, other or not specified"
+5013,Toy make-up kits or cosmetics (excluding mirrors)
+227,Ice makers (separate from refrigerators)
+336,Built-in fireplaces
+532,Glass bottle cutting equipment
+627,Light bulbs (excluding Christmas tree light bulbs)
+894,Hacksaws
+949,Laundry soaps or detergents
+974,Solid room deodorizers or fresheners
+1233,Trampolines
+1240,Aquariums or accessories
+1309,Kites or kite string
+1413,"Greenhouse or gardening supplies (excluding plant stands, tools, hoses, sprayers and chemicals)"
+1415,Manual snow or ice removal tools
+1544,Baby baths or bathinettes
+1686,Coins
+1898,Gas fumes or gas vapors of unknown origin
+3217,"Skating (activity, apparel or equipment) not specified"
+3223,"Fishing (activity, apparel or equipment"
+3233,Other grills or stoves
+3247,"Ice or snow boating (activity, apparel or equipment)"
+3276,"Water polo (activity, apparel or equipment)"
+4011,Inflatable furniture
+5044,Utility vehicles
+110,Electric heating pads
+213,Electric can openers
+218,Electric or battery-powered knives
+219,Electric deep fryers
+278,Electric ranges or ovens (excl. counter-top ovens)
+348,Portable electric heaters
+371,Ductwork for heating or cooling systems (excluding flues)
+381,Air conditioners
+443,Drinking straws
+559,"Radios, not specified"
+857,"Pliers, wire cutters or wrenches"
+1141,"Containers, not specified"
+1200,"Sports and recreational activity, not elsewhere classified"
+1205,"Basketball (activity, apparel or equipment)"
+1266,"Volleyball (activity, apparel or equipment)"
+1342,Costumes or masks
+1362,Woodburning kits
+1726,Lockers
+1739,"Ashtrays, electric or battery operated"
+1808,Outdoor awnings or shutters
+1894,"Windows and window glass, other than storm windows"
+1930,Aspirin substitutes
+3262,"Swimming pool equipment (excluding chemicals, diving boards and swimming pool slides)"
+3284,"Tennis (activity, apparel or equipment)"
+4014,"Furniture, not specified"
+4045,Fabrics (not part of finished item)
+5038,"Fitness/activity tracker, personal (including pedometers and non-medical heart rate monitors)"
+268,Slow cookers
+558,Indoor antennas (separate)
+571,Business and office machines
+833,Workshop compounds or chemicals
+859,"Soldering equipment, not specified"
+866,Electric soldering equipment
+936,Acids (excluding drain cleaners and battery acids)
+958,Other polishes
+1023,"Fertilizers, not specified"
+1143,Buckets or pails
+1299,"Snow tubing (activity, apparel or equipment)"
+1346,Clacker balls
+1353,Toy boxes or chests
+1381,"Toys, not elsewhere classified"
+1393,Chemistry sets or science kits
+1426,Hatchets or axes
+1554,Safety pins
+1556,Attachable high chairs (including booster seats)
+1558,Baby bouncer seats (excl jumpers)
+1645,Day wear
+1654,Paper cutters
+1701,Artificial Christmas trees
+1733,Vending machines (excluding car washing machines)
+1863,W allpaper
+2640,Oral hygiene products
+3260,"Fencing (activity, apparel or equipment)"
+3288,Dune buggies/beach buggies
+3293,"Water slides, not elsewhere classified"
+3294,"Water slides, backyard/home (not swimming pool slides)"
+4009,Nonbaby mattresses (excluding camp mattresses)
+4063,"Panelboards, circuit breakers, ground fault circuit interrupters (GFCIs) or fuses"
